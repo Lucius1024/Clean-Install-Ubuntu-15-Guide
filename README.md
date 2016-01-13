@@ -24,3 +24,10 @@
   <li>Restart the computer. As soon as the first text appears on the screen, press the appropriate button to enter your BIOS/system setup which is usually one of the following keys: F1, F2, Del, Esc, F10, F11, or F12.</li>
   <li>Once in the BIOS change the option for boot sequence to boot from the USB drive you installed Ubunutu on.</li>
   <li>Once the boot order is changed restart your computer.</li>
+  <li>After a minute or two, an Install window will appear. Select English from the list to the left of the screen and click Install Ubuntu.</li>
+  <li>Follow the instructions on the screen to select your country, timezone and keyboard layout.</li>
+  <li>When you get to the Prepare disk space screen, choose which option best suits your needs, I chose to erase Windows XP completely.</li>
+  <li>Follow the instructions to choose a username and password.</li>
+  <li>Click Install. The installation will begin, and should take 10-20 minutes to complete. When it is finished, choose to restart the computer and then remove your memory stick. Ubuntu should start to load.</li>
+  
+  <h2>Total Estimated time: 30-45 minutes</h2>
