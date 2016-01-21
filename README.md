@@ -55,7 +55,7 @@ USB drive with at least 6GB of storage
 9. Select the checkbox "download updates while installing" and click continue.
 10. When you get to the installation type, choose which option best suits your needs, I chose to erase Windows XP completely.
 11. If installing alongside windows boot manager, allocate space and select install now.
-12. Follow the instructions to choose a username and password.
+12. Follow the instructions to choose your location, language and keyboard settings, a username and a password.
 13. Click Install. The installation will begin, and should take 10-20 minutes to complete. When it is finished, choose to restart the computer and then remove your memory stick. Ubuntu should start to load.
 
 #4. Additional Software
