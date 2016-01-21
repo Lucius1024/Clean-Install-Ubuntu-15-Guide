@@ -2,7 +2,10 @@
 
 ![alt text](http://core0.staticworld.net/images/article/2014/08/logo-ubuntu-100372440-primary.idge.png "Ubuntu 15.10")
 
-#Performing a clean install of Ubuntu 15.10
+#Performing a Clean Install of Ubuntu 15.10
+
+**Required items:**
+USB drive with at least 6gb of space
 
 **Index:**
 
