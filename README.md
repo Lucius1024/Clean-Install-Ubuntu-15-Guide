@@ -32,7 +32,7 @@ USB drive with at least 6gb of space
     
     [64-bit](http://www.ubuntu.com/download/desktop/thank-you/?version=15.10&architecture=amd64) (Recommended)
     
-2. Click [here](http://www.pendrivelinux.com/downloads/Universal-USB-Installer/Universal-USB-Installer-1.9.6.3.exe) and move the downloaded universal USB installer to your desktop.
+2. Click [here](http://www.pendrivelinux.com/downloads/Universal-USB-Installer/Universal-USB-Installer-1.9.6.3.exe) to install a Universal USB Installer and move it to your desktop.
 3. Run the USB installer and select Ubuntu from the first dropdown menu.
 4. Select the Ubuntu .iso file you had saved from earlier.
 5. Select the flash drive you will be using to install Ubuntu and click the create button.
