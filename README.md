@@ -27,6 +27,7 @@ USB drive with at least 6gb of space
 #2. Mounting Ubuntu on a USB drive
 
 1. Download the appropriate Ubuntu file and place it on your desktop.
+**Note: Wait for download to finish before continuing.**
 
     [32-bit](http://www.ubuntu.com/download/desktop/thank-you/?version=15.10&architecture=i386) (2GB RAM or less)
     
