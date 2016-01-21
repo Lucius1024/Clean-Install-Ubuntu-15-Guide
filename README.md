@@ -5,6 +5,7 @@
 #Performing a Clean Install of Ubuntu 15.10
 
 **Required items:**
+
 USB drive with at least 6gb of space
 
 **Index:**
