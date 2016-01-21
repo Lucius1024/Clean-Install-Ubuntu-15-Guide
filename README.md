@@ -51,5 +51,106 @@
 
 #4. Additional Software
 
+###Chromium
+Chromium is an open-source version of Chrome. 
+
+1. Change to root directory:
+
+    ```bash
+$ cd ~
+```
+
+2. Add the Chromium PPA:
+    
+    ```bash
+$ add-apt-repository ppa:chromium-daily/ppa
+```
+
+3. Download the package lists from the repositories and "update" them to get information on the newest versions of packages and their dependencies. It will do this for all repositories and PPAs.
+
+    ```bash
+$ sudo apt-get update
+```
+
+4. Install Chromium:
+    
+    ```bash
+$ sudo apt-get install chromium-browser
+```
+
+###Sublime Text 3
+Sublime Text is a sophisticated text editor for code, html and prose. 
+
+1. Change to root directory:
+
+    ```bash
+$ cd ~
+```
+
+2. Add the WebUpd8 Sublime Text 3 (beta) PPA:
+    
+    ```bash
+$ sudo add-apt-repository ppa:webupd8team/sublime-text-3
+```
+
+3. Download the package lists from the repositories and "update" them to get information on the newest versions of packages and their dependencies. It will do this for all repositories and PPAs.
+
+    ```bash
+$ sudo apt-get update
+```
+
+4. Install Sublime Text 3:
+    
+    ```bash
+$ sudo apt-get install sublime-text-installer
+```
+
+5. Add in drupal specific preferences [https://drupal.org/node/1346890](https://drupal.org/node/1346890)
+
+###IRC (HexChat)
+1. Add the HexChat PPA:
+    
+    ```Bash
+$ sudo add-apt-repository ppa:gwendal-lebihan-dev/hexchat-stable
+```
+
+2. Download the package lists from the repositories and "update" them to get information on the newest versions of packages and their dependencies. It will do this for all repositories and PPAs
+    
+    ```Bash
+$ sudo apt-get update
+```
+
+3. Install HexChat:
+    
+    ```Bash
+$ sudo apt-get install hexchat
+```
+
+###Terminator
+
+1. Change to root directory:
+
+    ```bash
+$ cd ~
+```
+
+2. Add the Terminator Nightly Builds PPA:
+    
+    ```bash
+$ sudo add-apt-repository ppa:gnome-terminator/nightly
+```
+
+3. Download the package lists from the repositories and "update" them to get information on the newest versions of packages and their dependencies. It will do this for all repositories and PPAs.
+
+    ```bash
+$ sudo apt-get update
+```
+
+4. Install Terminator:
+    
+    ```bash
+$ sudo apt-get install terminator
+```
+
 
 
