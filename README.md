@@ -5,6 +5,7 @@
 #Performing a clean install of Ubuntu 15.10
 
 **Index:**
+
 1. Backing up Files and Settings
 2. Mounting Ubuntu on a USB drive
 3. Installing Ubuntu
