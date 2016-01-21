@@ -60,6 +60,8 @@ USB drive with at least 6GB of storage
 
 #4. Additional Software
 
+Click the launcher in the top left corner of the screen and type Terminal. Click the icon that pops up. Commands will be entered here.
+
 ###Chromium
 Chromium is an open-source version of Chrome. 
 
