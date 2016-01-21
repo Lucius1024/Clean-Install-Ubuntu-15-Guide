@@ -2,7 +2,7 @@
 
 ![alt text](http://core0.staticworld.net/images/article/2014/08/logo-ubuntu-100372440-primary.idge.png "Ubuntu 15.10")
 
-#Performing a clean install of Ubuntu 15.10**
+#Performing a clean install of Ubuntu 15.10
 
 **Index:**
 1. Backing up Files and Settings
