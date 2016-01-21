@@ -24,7 +24,8 @@
 
 1. Download the appropriate Ubuntu file and place it on your desktop.
 
-    [32-bit](http://www.ubuntu.com/download/desktop/thank-you/?version=15.10&architecture=i386) (2GB RAM or less) 
+    [32-bit](http://www.ubuntu.com/download/desktop/thank-you/?version=15.10&architecture=i386) (2GB RAM or less)
+    
     [64-bit](http://www.ubuntu.com/download/desktop/thank-you/?version=15.10&architecture=amd64) (Recommended)
     
 2. Click [here](http://www.pendrivelinux.com/downloads/Universal-USB-Installer/Universal-USB-Installer-1.9.6.3.exe) and move the downloaded universal USB installer to your desktop.
