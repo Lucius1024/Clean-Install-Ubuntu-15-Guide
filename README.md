@@ -8,7 +8,7 @@
 
 **Required items:**
 
-USB drive with at least 6gb of space
+USB drive with at least 6GB of storage
 
 **Index:**
 
