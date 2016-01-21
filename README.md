@@ -4,6 +4,8 @@
 
 #Performing a Clean Install of Ubuntu 15.10
 
+**Total Estimated time: 30-45 minutes**
+
 **Required items:**
 
 USB drive with at least 6gb of space
@@ -53,8 +55,6 @@ USB drive with at least 6gb of space
 8. When you get to the Prepare disk space screen, choose which option best suits your needs, I chose to erase Windows XP completely.
 9. Follow the instructions to choose a username and password.
 10. Click Install. The installation will begin, and should take 10-20 minutes to complete. When it is finished, choose to restart the computer and then remove your memory stick. Ubuntu should start to load.
-  
-**Total Estimated time: 30-45 minutes**
 
 #4. Additional Software
 
