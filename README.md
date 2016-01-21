@@ -24,6 +24,11 @@
 
 1. Download the appropriate Ubuntu file and place it on your desktop.
 
+**To find out if your computer is running a 32-bit or 64-bit version of Windows in Windows 7 or Windows Vista, do the following:**
+    1. Open System by clicking the Start button Picture of the Start button, right-clicking Computer, and then clicking Properties.
+    
+    2. Under System, you can view the system type.
+
     [32-bit](http://www.ubuntu.com/download/desktop/thank-you/?version=15.10&architecture=i386) (2GB RAM or less) 
     [64-bit](http://www.ubuntu.com/download/desktop/thank-you/?version=15.10&architecture=amd64) (Recommended)
     
