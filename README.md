@@ -49,11 +49,12 @@ USB drive with at least 6GB of storage
 3. Once in the BIOS change the option for boot sequence to boot from the USB drive you installed Ubunutu on.
 4. Once the boot order is changed restart your computer.
 5. Wait a minute or two, an install window will appear.
-6. Select English from the list to the left of the screen and click Install Ubuntu.
-7. Follow the instructions on the screen to select your country, timezone and keyboard layout.
-8. When you get to the Prepare disk space screen, choose which option best suits your needs, I chose to erase Windows XP completely.
-9. Follow the instructions to choose a username and password.
-10. Click Install. The installation will begin, and should take 10-20 minutes to complete. When it is finished, choose to restart the computer and then remove your memory stick. Ubuntu should start to load.
+6. Select "Install Ubuntu" and wait for it to load.
+7. Select English from the list to the left of the screen and click Install Ubuntu.
+8. Follow the instructions on the screen to select your country, timezone and keyboard layout.
+9. When you get to the Prepare disk space screen, choose which option best suits your needs, I chose to erase Windows XP completely.
+10. Follow the instructions to choose a username and password.
+11. Click Install. The installation will begin, and should take 10-20 minutes to complete. When it is finished, choose to restart the computer and then remove your memory stick. Ubuntu should start to load.
 
 #4. Additional Software
 
