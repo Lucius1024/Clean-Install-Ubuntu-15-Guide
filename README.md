@@ -38,7 +38,8 @@ USB drive with at least 6GB of storage
 3. Run the USB installer and select Ubuntu from the first dropdown menu.
 4. Select the Ubuntu .iso file you had saved from earlier.
 5. Select the flash drive you will be using to install Ubuntu and click the create button.
-6. Safely eject the USB drive from your task bar and plug the USB drive into the machine you will be installing Ubuntu on.
+6. Wait for the file to extract to the USB drive.
+7. Safely eject the USB drive from your task bar and plug the USB drive into the machine you will be installing Ubuntu on.
 
 
 #3. Installing Ubuntu
