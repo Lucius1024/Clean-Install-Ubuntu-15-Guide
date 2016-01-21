@@ -72,7 +72,7 @@ $ cd ~
 2. Add the Chromium PPA:
     
     ```bash
-$ add-apt-repository ppa:chromium-daily/ppa
+$ sudo add-apt-repository ppa:chromium-daily/ppa
 ```
 
 3. Download the package lists from the repositories and "update" them to get information on the newest versions of packages and their dependencies. It will do this for all repositories and PPAs.
