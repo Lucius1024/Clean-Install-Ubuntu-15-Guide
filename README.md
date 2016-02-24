@@ -58,7 +58,7 @@ USB drive with at least 6GB of storage
 12. Follow the instructions to choose your location, language and keyboard settings, name, computer name, a username and a password.
 13. Click Install. The installation will begin, and should take 10-20 minutes to complete. When it is finished, choose to restart the computer and then remove your USB drive. Ubuntu should start to load on restart.
 
-#4. Additional Software
+#4. Recommended Software (Optional)
 
 Click the launcher in the top left corner of the screen and type Terminal. Click the icon that pops up. Commands will be entered here.
 
