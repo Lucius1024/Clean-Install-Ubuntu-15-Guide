@@ -1,8 +1,8 @@
-# Install Ubuntu 15
+# Install Ubuntu 16
 
-![alt text](http://core0.staticworld.net/images/article/2014/08/logo-ubuntu-100372440-primary.idge.png "Ubuntu 15.10")
+![alt text](http://core0.staticworld.net/images/article/2014/08/logo-ubuntu-100372440-primary.idge.png "Ubuntu 16.04")
 
-#Performing a Clean Install of Ubuntu 15.10
+#Performing a Clean Install of Ubuntu 16.04
 
 **Total Estimated time: 30-45 minutes**
 
@@ -46,7 +46,7 @@ USB drive with at least 6GB of storage
 
 1. Insert the USB drive into the computer that you will be installing Ubuntu on.
 2. Restart the computer. As soon as the first text appears on the screen, press the appropriate button to enter your BIOS/system setup which is usually one of the following keys: F1, F2, Del, Esc, F10, F11, or F12.
-3. Once in the BIOS change the option for boot sequence to boot from the USB drive you installed Ubunutu on.
+3. Once inside the BIOS Enter administaror password to change boot sequence from the HD to the USB drive you installed Ubunutu on.
 4. Once the boot order is changed restart your computer.
 5. Wait a minute or two, an install window will appear.
 6. Select "Install Ubuntu" and wait for it to load.
@@ -162,6 +162,14 @@ $ sudo apt-get update
     ```bash
 $ sudo apt-get install terminator
 ```
+# HELP/TROUBLESHOOTING
 
+1. Forgotten Bios Password
+    In the Event that the Bios Screen has an administrator password, and the user is unable to recover it.
+    1. turn the computer off
+    2. locate the motherboards documentation 
+    3. open the computers chasie and locate the the mother board jumper to reset the bios.
+    4. remove the jumper pin for 2-3 seconds and replace back to its original state.
+    5. Power the computer ON and then proceed with the installation. 
 
 
