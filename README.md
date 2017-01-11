@@ -1,14 +1,15 @@
-# Install Ubuntu 15
+# Install Ubuntu 16
 
-![alt text](http://core0.staticworld.net/images/article/2014/08/logo-ubuntu-100372440-primary.idge.png "Ubuntu 15.10")
+![alt text](http://core0.staticworld.net/images/article/2014/08/logo-ubuntu-100372440-primary.idge.png "Ubuntu 16.04")
 
-#Performing a Clean Install of Ubuntu 15.10
+#Performing a Clean Install of Ubuntu 16.04
 
 **Total Estimated time: 30-45 minutes**
 
 **Required items:**
 
 USB drive with at least 6GB of storage
+
 
 **Index:**
 
@@ -30,9 +31,9 @@ USB drive with at least 6GB of storage
 
 1. Download the appropriate Ubuntu file and place it on your desktop.
 
-    [32-bit](http://www.ubuntu.com/download/desktop/thank-you/?version=15.10&architecture=i386) (2GB RAM or less)
+    [32-bit](https://www.ubuntu.com/download/desktop) (2GB RAM or less)
     
-    [64-bit](http://www.ubuntu.com/download/desktop/thank-you/?version=15.10&architecture=amd64) (Recommended)
+    [64-bit](https://www.ubuntu.com/download/desktop) (Recommended)
     
 2. Click [here](http://www.pendrivelinux.com/downloads/Universal-USB-Installer/Universal-USB-Installer-1.9.6.3.exe) to install a Universal USB Installer and move it to your desktop.
 3. Run the USB installer and select Ubuntu from the first dropdown menu.
@@ -47,6 +48,10 @@ USB drive with at least 6GB of storage
 1. Insert the USB drive into the computer that you will be installing Ubuntu on.
 2. Restart the computer. As soon as the first text appears on the screen, press the appropriate button to enter your BIOS/system setup which is usually one of the following keys: F1, F2, Del, Esc, F10, F11, or F12.
 3. Once in the BIOS change the option for boot sequence to boot from the USB drive you installed Ubunutu on.
+    
+    Optional Step: If the BIOS requires a administrative password you don't know, reset the BIOS or CMOS to remove the password. I used a Dell Optiplex 980
+    
+   [Generic guide for Dell systems](http://www.dell.com/support/Article/us/en/6099/SLN284985)
 4. Once the boot order is changed restart your computer.
 5. Wait a minute or two, an install window will appear.
 6. Select "Install Ubuntu" and wait for it to load.
@@ -71,7 +76,7 @@ Chromium is an open-source version of Chrome.
 $ cd ~
 ```
 
-2. Add the Chromium PPA:
+2. Add the Chromium PPA: (This Chromium PPA is dead; You can still install though)
     
     ```bash
 $ sudo add-apt-repository ppa:chromium-daily/ppa
