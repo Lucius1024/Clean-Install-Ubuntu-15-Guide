@@ -17,6 +17,8 @@ USB drive with at least 6GB of storage
 2. Mounting Ubuntu on a USB drive
 3. Installing Ubuntu
 4. Additional software
+5. Troubleshooting
+
 
 #1. Backing up Files and Settings
 
@@ -47,11 +49,7 @@ USB drive with at least 6GB of storage
 
 1. Insert the USB drive into the computer that you will be installing Ubuntu on.
 2. Restart the computer. As soon as the first text appears on the screen, press the appropriate button to enter your BIOS/system setup which is usually one of the following keys: F1, F2, Del, Esc, F10, F11, or F12.
-3. Once in the BIOS change the option for boot sequence to boot from the USB drive you installed Ubunutu on.
-    
-    Optional Step: If the BIOS requires a administrative password you don't know, reset the BIOS or CMOS to remove the password. I used a Dell Optiplex 980
-    
-   [Generic guide for Dell systems](http://www.dell.com/support/Article/us/en/6099/SLN284985)
+3. Once in the BIOS change the option for boot sequence to boot from the USB drive you installed Ubunutu on.    
 4. Once the boot order is changed restart your computer.
 5. Wait a minute or two, an install window will appear.
 6. Select "Install Ubuntu" and wait for it to load.
@@ -168,5 +166,33 @@ $ sudo apt-get update
 $ sudo apt-get install terminator
 ```
 
+#5. Troubleshooting
+
+My install had run into two issues.
+
+The 32-bit version of Ubunutu would not boot from the USB, oddly enough the 64-bit version did
+If Ubunutu will not boot from your USB or you get an error from the USB installer try this:
+
+1. Instead of using the 32-bit version use the 64-bit Ubuntu version
+
+
+If the bios has a password, you must reset it
+
+If the BIOS requires a administrative password you don't know, reset the BIOS or CMOS to remove the password. I used a Dell Optiplex 980
+1. Power off and unplug your computer.
+2. Open the computer case.
+3. Locate the CMOS battery (this will reset your bios).
+4. Remove the battery (most motherboards have a pins that allow you to pop it out).
+
+An alternative to CMOS battery removal:
+1. Power off and unplug the computer.
+2. Open the computer case.
+3. Locate the CMOS/PSWD jumper (most of the time its a little piece of plastic on 2 or 3 pins).
+4. If there, remove the jumper and boot the computer.
+5. I recommend putting the jumper back on after you install Ubuntu
+
+    A guide I used for the Optiplex 980's
+    
+   [Generic guide for Dell systems](http://www.dell.com/support/Article/us/en/6099/SLN284985)
 
 
